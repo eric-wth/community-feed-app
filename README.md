@@ -1,3 +1,6 @@
+This is a community feed app that is developed with Next.js. It illustrates Server Side Rendering using head tags for SEO.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
